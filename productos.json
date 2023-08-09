@@ -1,0 +1,150 @@
+{
+    "yerbas": [
+        {
+            "id": "1",
+            "name": "Mañanita 1Kg",
+            "precio": "245",
+            "imgIcon": "./img/mananita.webp"
+        },
+        {
+            "id": "2",
+            "name": "Cachamate Hierbas Digestivas 1Kg",
+            "precio": "438",
+            "imgIcon": "./img/cachamate_hierbas.webp"
+        },
+        {
+            "id": "3",
+            "name": "Cachamate Hierbas Digestivas Rosa 500g",
+            "precio": "576",
+            "imgIcon": "./img/cachamate_rosa.webp"
+        },
+        {
+            "id": "4",
+            "name": "Buenas y Santas 500g",
+            "precio": "524",
+            "imgIcon": "./img/buenas_y_santas.webp"
+        },
+        {
+            "id": "5",
+            "name": "Canarias 500g",
+            "precio": "378",
+            "imgIcon": "./img/canarias.webp"
+        },
+        {
+            "id": "6",
+            "name": "CBSé Guaraná 500g",
+            "precio": "507",
+            "imgIcon": "./img/cbse_guarana.webp"
+        },
+        {
+            "id": "7",
+            "name": "CBSé Jengibre 500g",
+            "precio": "928",
+            "imgIcon": "./img/cbse_jengibre.webp"
+        },
+        {
+            "id": "8",
+            "name": "CBSé Naranja 500g",
+            "precio": "856",
+            "imgIcon": "./img/cbse_naranja.webp"
+        },
+        {
+            "id": "9",
+            "name": "La Merced",
+            "precio": "873",
+            "imgIcon": "./img/la_merced.webp"
+        },
+        {
+            "id": "10",
+            "name": "Nobleza Gaucha 1Kg",
+            "precio": "468",
+            "imgIcon": "./img/nobleza.webp"
+        },
+        {
+            "id": "11",
+            "name": "Playadito 500g",
+            "precio": "587",
+            "imgIcon": "./img/playadito.webp"
+        },
+        {
+            "id": "12",
+            "name": "Salus 500g",
+            "precio": "624",
+            "imgIcon": "./img/salus.webp"
+        }
+    ],
+    "productos": [
+        {
+            "id": "13",
+            "name": "Bombilla chata de acero inoxidable",
+            "precio": "1.500",
+            "imgIcon": "./img/bombilla_2.webp"
+        },
+        {
+            "id": "14",
+            "name": "Bombilla de acero inoxidable con doble filtro",
+            "precio": "2.000",
+            "imgIcon": "./img/bombilla_1.webp"
+        },
+        {
+            "id": "15",
+            "name": "Bombilla de acero inoxidable",
+            "precio": "1.800",
+            "imgIcon": "./img/bombilla_3.webp"
+        },
+        {
+            "id": "16",
+            "name": "Jarra eléctrica Moulinex",
+            "precio": "15.000",
+            "imgIcon": "./img/jarra_moulinex.webp"
+        },
+        {
+            "id": "17",
+            "name": "Jarra eléctrica Nex",
+            "precio": "9.500",
+            "imgIcon": "./img/jarra_nex.webp"
+        },
+        {
+            "id": "18",
+            "name": "Mate plástico con bombilla",
+            "precio": "1.200",
+            "imgIcon": "./img/mate_bombilla.webp"
+        },
+        {
+            "id": "19",
+            "name": "Mate de madera",
+            "precio": "1.500",
+            "imgIcon": "./img/mate_madera.webp"
+        },
+        {
+            "id": "20",
+            "name": "Mate dorado",
+            "precio": "1.800",
+            "imgIcon": "./img/mate_dorado.webp"
+        },
+        {
+            "id": "21",
+            "name": "Mate térmico",
+            "precio": "2.500",
+            "imgIcon": "./img/mate_termico.webp"
+        },
+        {
+            "id": "22",
+            "name": "Mate con estampado de corazones",
+            "precio": "2.000",
+            "imgIcon": "./img/mate_marwal.webp"
+        },
+        {
+            "id": "23",
+            "name": "Termo Lumilagro",
+            "precio": "5.600",
+            "imgIcon": "./img/termo_lumilagro.webp"
+        },
+        {
+            "id": "24",
+            "name": "Repuesto Termo Lumilagro",
+            "precio": "1.800",
+            "imgIcon": "./img/repuesto_termo.webp"
+        }
+    ]
+}
